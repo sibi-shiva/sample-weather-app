@@ -1,2 +1,3 @@
-# sample-weather-app
-Sample for JS session 1
+# weatherAPP
+
+Sample weather app using open weather API
